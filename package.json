@@ -35,14 +35,14 @@
     "url": "https://github.com/cooliejs/coolie.render.js/issues"
   },
   "dependencies": {
-    "blear.utils.object": "^1.0.14"
+    "blear.utils.object": "^1.0.14",
+    "uglify-js": "^3.4.9"
   },
   "peerDependencies": {},
   "devDependencies": {
     "chai-jasmine": "1.0.7",
     "istanbul": "0.4.5",
-    "mocha": "4.0.1",
-    "uglify-js": "^3.4.9"
+    "mocha": "4.0.1"
   },
   "license": "MIT"
 }
